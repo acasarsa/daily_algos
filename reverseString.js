@@ -1,5 +1,6 @@
 import {string} from './module.js';
 
+// solve without using str.split('').reverse(str).join('')
 const str = string()
 
 function reverse(str) {
